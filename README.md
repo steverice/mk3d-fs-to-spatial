@@ -10,7 +10,7 @@ You will need an Apple Silicon-based Mac running macOS Sonoma (see [caveats](#ca
 You must also have the following installed and configured on your system:
 
 - [`ffmpeg`][ffmpeg], most easily [installed with homebrew][ffmpeg-homebrew]
-- `ldecod` (part of the [JM H.264/AVC reference software][jm-reference]), Mac binaries available [on GitHub](ldecod)
+- `ldecod` (part of the [JM H.264/AVC reference software][jm-reference]), Mac binaries available [on GitHub][ldecod]
 - [`spatial-media-kit-tool`][spatial]
 - [`mp4box`][mp4box], part of the [GPAC framework][gpac]
 
